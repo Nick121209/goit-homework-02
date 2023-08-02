@@ -1,10 +1,28 @@
-.Web {color:#4D5AE5; font-family: Raleway; font-size:18px; font-weight: 800;}
+body{font-family: Roboto, sans-serif; color:#434455; background-color: #FFFFFF}
 
-.Studio {color:black; font-family: Raleway; font-size:18px; font-weight: 800; text-decoration: none;}
+.studio {color:#4D5AE5; font-family: Raleway, sans-serif; font-size:18px; font-weight: 800;}
 
-body{font-family: Roboto;}
+.link {color:black; font-family: Raleway, sans-serif; font-size:18px; font-weight: 800; text-decoration: none; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
 
-.navigation{font-family: roboto; font-size: 16px font-weight: 500;}
+.list{style: none}
+
+.astudio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
+
+.astudio:focus{color:#404bbf;}
+
+.astudio:hover{color: #404bbf}
+
+.aportfolio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
+
+.aportfolio:focus{color:#404bbf;}
+
+.aportfolio:hover{color: #404bbf;}
+
+.acontacts{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
+
+.acontacts:hover{color:#404bbf;}
+
+.acontacts:focus{color: #404bbf;}
 
 .a1{text-decoration: none;}
 
@@ -12,7 +30,13 @@ body{font-family: Roboto;}
 
 .a3{text-decoration: none;}
 
-.a4{text-decoration: none; font-weight: 400; font-size: 16px;}
+.email{text-decoration: none; ; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
+
+.email:focus{color:#404bbf}
+
+.tel{text-decoration: none; ; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
+
+.tel:focus{color:#404bbf}
 
 .a5{text-decoration: none; font-weight: 400; font-size: 16px;}
 
@@ -26,33 +50,13 @@ body{font-family: Roboto;}
 
 .a10{text-decoration: none;}
 
-.a6:hover{color:#404BBF}
-
-.a7:hover{color:#404BBF}
-
-.a8:hover{color:#404BBF}
-
-.a9:hover{color:#404BBF}
-
-.a5:hover{color:#404BBF}
-
-.a10:hover{color:#404BBF}
-
-.a1:hover{color:#404BBF}
-
-.a2:hover{color:#404BBF}
-
-.a3:hover{color:#404BBF}
-
-.a4:hover{color:#404BBF}
-
-.order:hover{background:#404BBF;}
-
 .footerweb2{text-decoration: none}
 
-.contacs{color:#434455; font-family: Roboto; font-size: 16px; font-weight: 400;}
+.mailandtel{color:#434455; font-family: Roboto; font-size: 16px; font-weight: 400; font-style: normal}
 
-.presentation{background-color: #2E2F42; color:#FFFFFF; font-size: 56px; font-weight: 700}
+.presentation{background-color: #2E2F42; }
+
+.solutions{line-height: 1.07; text-align: center; letter-spacing: 0.02em; color: #FFFFFF}
 
 .team{background-color: #F4F4FD}
 
@@ -60,53 +64,89 @@ footer{background-color:#2E2F42}
  
 .order{background-color: #4D5AE5; color:#FFFFFF; cursor: pointer;}
 
-.footerweb{color:#4D5AE5; font-family: Raleway; font-size: 18px; font-weight: 800;}
+.strategy{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02;}
 
-.footerstudio{color:#FFFFFF; font-family: Raleway; font-size: 18px; font-weight: 800; text-decoration: none;}
+.punctuality{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02;}
 
-h3{color:#2E2F42; font-weight: 500; font-size: 20px;}
+.diligence{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02;}
 
-.strategy{color:#2E2F42; font-weight: 500; font-size: 20px;}
+.technologies{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02;}
 
-.punctuality{color:#2E2F42; font-weight: 500; font-size: 20px;}
+.problem{color: #434455; font-weight:400; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
-.diligence{color:#2E2F42; font-weight: 500; font-size: 20px;}
+.message{color: #434455; font-weight:400; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
-.technologies{color:#2E2F42; font-weight: 500; font-size: 20px;}
+.brands{color: #434455; font-weight:400; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
-.p1{color: #434455; font-weight:400; font-size: 16px;}
+.digital{color: #434455; font-weight:400; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
-.p2{color:#434455; font-weight: 400; font-size: 16px;}
+.responsibilities{font-size: 36px; line-height: 1.11; text-align: center; letter-spacing: 0.02em; text-transform: capitalize; color: #2E2F42}
 
-.p3{color:#434455; font-weight: 400; font-size: 16px;}
+.team{font-size: 36px; line-height: 1.11; text-align: center; letter-spacing: 0.02em; text-transform: capitalize; color:#2E2F42}
 
-.p4{color:#434455; font-weight: 400; font-size: 16px;}
+.image4{background-color:#FFFFFF}
 
-.p5{color:#434455; font-weight: 400; font-size: 16px;}
+.image5{background-color:#FFFFFF}
 
-.p6{color:#434455; font-weight: 400; font-size: 16px;}
+.image6{background-color:#FFFFFF}
 
-.p7{color: #434455; font-weight: 400; font-size: 16px;}
+.image7{background-color:#FFFFFF}
 
-.p8{color:#434455; font-weight: 400; font-size: 16px;}
+.name1{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
 
-.p-footer{color: #F4F4Fd; font-weight: 400; font-size: 16px;}
+.job_title1{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
 
-.web2{color: #4D5AE5; font-family: Raleway; font-weight: 800; font-size: 18px;}
+.name2{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
 
-.studio2{color: #2E2F42; font-family: Raleway; font-weight: 800; font-size: 18px; text-decoration: none;}
+.job_title2{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
-.button1{background-color:#404BBF; color:#FFFFFF;font-weight: 500; font-size:16px;}
+.name3{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
 
-.button2{background-color: #E7E9FC; color: #4D5AE5; font-weight: 500}
+.job_title3{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
-.button3{background-color: #E7E9FC; color: #4D5AE5; font-weight: 500}
+.name4{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
 
-.button4{background-color: #E7E9FC; color: #4D5AE5; font-weight: 500}
+.job_title4{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
-.button5{background-color: #E7E9FC; color: #4D5AE5; font-weight: 500}
+.p-footer{color: #F4F4Fd; line-height:1.5; letter-spacing: 0.02 em}
 
-.button6{background-color: #E7E9FC; color: #4D5AE5; font-weight: 500}
+.footer1{background-color: #2E2F42;}
+
+.link{font-family: Raleway; sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color:#4D5AE5}
+
+body{font-family: Roboto, sans-serif; color:#434455;}
+
+.pstudio{font-family: Raleway; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color: #4D5AE5}
+
+.link{text-decoration: none;}
+
+.portstudio{color:#2E2F42}
+
+.apstudio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: #2E2F42}
+
+.apportfolio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: #2E2F42}
+
+.apcontacts{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: #2E2F42}
+
+.button_all{font-family: Roboto, sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em}
+
+.button_website{font-family: Roboto, sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em}
+
+.button_app{font-family: Roboto, sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em}
+
+.button_design{font-family: Roboto, sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em}
+
+.button_marketing{font-family: Roboto, sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em}
+
+.banking_app{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em}
+
+.app{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; }
+
+.pfooter{background-color: #2E2F42; }
+
+.logo{font-family: Raleway; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.003em; text-transform: uppercase;}
+
+.p-studio{color:#F4F4FD}
 
 h4{color:#2E2F42; font-weight: 500; font-size: 20px;}
 
