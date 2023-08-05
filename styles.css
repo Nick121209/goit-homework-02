@@ -68,21 +68,21 @@ footer{background-color:#2E2F42}
 
 .order:hover{background-color:#404BBF}
 
-.strategy{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02;}
+.strategy{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
 
-.punctuality{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02;}
+.punctuality{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
 
-.diligence{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02;}
+.diligence{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
 
-.technologies{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02;}
+.technologies{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
 
-.problem{color: #434455; font-weight:400; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
+.problem{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
-.message{color: #434455; font-weight:400; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
+.message{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
-.brands{color: #434455; font-weight:400; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
+.brands{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
-.digital{color: #434455; font-weight:400; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
+.digital{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
 .responsibilities{font-size: 36px; line-height: 1.11; text-align: center; letter-spacing: 0.02em; text-transform: capitalize; color: #2E2F42}
 
@@ -127,6 +127,12 @@ body{font-family: Roboto, sans-serif; color:#434455;}
 .pstudio{font-family: Raleway, sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color: #4D5AE5}
 
 .link{text-decoration: none;}
+
+.link{text-decoration: none}
+
+.link{text-decoration: none}
+
+
 
 .portstudio{color:#2E2F42}
 
