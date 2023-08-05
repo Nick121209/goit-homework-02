@@ -1,20 +1,18 @@
-:root{--primary-color:#4d5ae5;
---button--color:#4d5ae5;
---button--background-color:#F4F4FD;}
+:root{--primary-color}
 
 body{font-family: "Roboto", sans-serif; color:#434455; background-color: #FFFFFF}
 
-.web{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color: #4D5AE5}
+.web{.font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color: #4D5AE5}
 
 .link{text-decoration: none;}
 
-.studio {color:#2E2F42; font-family: "Raleway", sans-serif; font-size:18px; font-weight: 800;}
+.studio {color:#4D5AE5; font-family: "Raleway", sans-serif; font-size:18px; font-weight: 800;}
 
 .link {color:black; font-family: "Raleway", sans-serif; font-size:18px; font-weight: 800; text-decoration: none; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
 
 .list{style: none}
 
-.astudio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color:#2E2F42}
+.astudio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
 
 .astudio:focus{color:#404bbf;}
 
@@ -22,7 +20,7 @@ body{font-family: "Roboto", sans-serif; color:#434455; background-color: #FFFFFF
 
 .link{text-decoration: none;}
 
-.aportfolio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color:#2E2F42}
+.aportfolio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
 .aportfolio:focus{color:#404bbf;}
 
@@ -30,7 +28,7 @@ body{font-family: "Roboto", sans-serif; color:#434455; background-color: #FFFFFF
 
 .link{text-decoration: none;}
 
-.acontacts{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color:#2E2F42}
+.acontacts{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
 .acontacts:hover{color:#404bbf;}
 
@@ -176,31 +174,31 @@ body{font-family: "Roboto", sans-serif; color:#434455;}
 
 .p_tel:hover{color:#404BBF}
 
-.button_all{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color: var(--button-color);background-color: var(--button-background-color);}
+.button_all{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;}
 
 .button_all:focus{color:#FFFFFF; background-color: #404BBF;}
 
 .button_all:hover{color:#FFFFFF; background-color: #404BBF;}
 
-.button_website{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color:var(--button-color);background-color: var(--button-background-color);}
+.button_website{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;}
 
 .button_website:focus{color:#FFFFFF; background-color: #404BBF;}
 
 .button_website:hover{color:#FFFFFF; background-color: #404BBF;}
 
-.button_app{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color:var(--button-color);background-color: var(--button-background-color);}
+.button_app{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;}
 
 .button_app:focus{color:#FFFFFF; background-color: #404BBF;}
 
 .button_app:hover{color:#FFFFFF; background-color: #404BBF;}
 
-.button_design{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor:pointer;color:var(--button-color);background-color: var(--button-background-color);}
+.button_design{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor:pointer;}
 
 .button_design:focus{color:#FFFFFF; background-color: #404BBF;}
 
 .button_design:hover{color:#FFFFFF; background-color: #404BBF;}
 
-.button_marketing{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer; color:var(--button-color); background-color:var(--button-background-color);}
+.button_marketing{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;}
 
 .button_marketing:focus{color:#FFFFFF; background-color: #404BBF;}
 
