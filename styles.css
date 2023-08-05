@@ -1,5 +1,9 @@
 body{font-family: Roboto, sans-serif; color:#434455; background-color: #FFFFFF}
 
+.web{.font-family: Raleway, sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color: #4D5AE5}
+
+.link{text-decoration: none;}
+
 .studio {color:#4D5AE5; font-family: Raleway, sans-serif; font-size:18px; font-weight: 800;}
 
 .link {color:black; font-family: Raleway, sans-serif; font-size:18px; font-weight: 800; text-decoration: none; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
@@ -12,11 +16,15 @@ body{font-family: Roboto, sans-serif; color:#434455; background-color: #FFFFFF}
 
 .astudio:hover{color: #404bbf}
 
+.link{text-decoration: none;}
+
 .aportfolio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
 .aportfolio:focus{color:#404bbf;}
 
 .aportfolio:hover{color: #404bbf;}
+
+.link{text-decoration: none;}
 
 .acontacts{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
@@ -24,11 +32,7 @@ body{font-family: Roboto, sans-serif; color:#434455; background-color: #FFFFFF}
 
 .acontacts:focus{color: #404bbf;}
 
-.a1{text-decoration: none;}
-
-.a2{text-decoration: none;}
-
-.a3{text-decoration: none;}
+.link{text-decoration: none;}
 
 .email{text-decoration: none; ; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
 
@@ -41,14 +45,6 @@ body{font-family: Roboto, sans-serif; color:#434455; background-color: #FFFFFF}
 .tel:focus{color:#404bbf}
 
 .tel:hover{color:#404bbf}
-
-.a5{text-decoration: none; font-weight: 400; font-size: 16px;}
-
-.a6{text-decoration: none;}
-
-.a7{text-decoration: none;}
-
-.a8{text-decoration: none;}
 
 .footerweb2{text-decoration: none}
 
@@ -118,6 +114,8 @@ footer{background-color:#2E2F42}
 
 .i_footer_link{font-family: Raleway, sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color:#4D5AE5}
 
+.link{text-decoration: none}
+
 .studio_i{color:#F4F4FD}
 
 .i_footer_p{line-height: 1.5; color:#F4F4FD; letter-spacing: 0.02em}
@@ -127,12 +125,6 @@ body{font-family: Roboto, sans-serif; color:#434455;}
 .pstudio{font-family: Raleway, sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color: #4D5AE5}
 
 .link{text-decoration: none;}
-
-.link{text-decoration: none}
-
-.link{text-decoration: none}
-
-
 
 .portstudio{color:#2E2F42}
 
@@ -150,11 +142,15 @@ body{font-family: Roboto, sans-serif; color:#434455;}
 
 .apportfolio:hover{color:#404bbf;}
 
+.link{text-decoration: none;}
+
 .apcontacts{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: #2E2F42}
 
 .apcontacts:focus{color:#404bbf;}
 
 .apcontacts:hover{color:#404bbf;}
+
+.link{text-decoration: none;}
 
 .contacts{font-style: normal}
 
@@ -242,24 +238,14 @@ body{font-family: Roboto, sans-serif; color:#434455;}
 
 ._site{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; }
 
-
-
 .pfooter{background-color: #2E2F42; }
 
 .logo{font-family: Raleway, sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
 
-.link{text-decoration:none}
+.link{text-decoration: none;}
 
 .p-studio{color:#F4F4FD}
 
-h4{color:#2E2F42; font-weight: 500; font-size: 20px;}
 
-p{color: #434455; font-weight: 400; font-size: 16px;}
-
-.footerweb2 {color: #4D5AE5; font-family: Raleway; font-weight: 800; font-size: 18px;}
-
-.footerstudio2 {color:#F4F4FD; font-weight: 800; font-size: 18px}
-
-.p-footer2 {color:#F4F4FD; font-weight: 400; font-size: 16px;}
 
 
