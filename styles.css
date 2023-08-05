@@ -12,7 +12,7 @@ body{font-family: "Roboto", sans-serif; color:#434455; background-color: #FFFFFF
 
 .studio {color:#2E2F42; font-family: "Raleway", sans-serif; font-size:18px; font-weight: 800;}
 
-.list{style: none}
+.list{list-style: none}
 
 .astudio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color:#2E2F42}
 
@@ -20,19 +20,7 @@ body{font-family: "Roboto", sans-serif; color:#434455; background-color: #FFFFFF
 
 .astudio:hover{color: #404bbf}
 
-.aportfolio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color:#2E2F42}
-
-.aportfolio:focus{color:#404bbf;}
-
-.aportfolio:hover{color: #404bbf;}
-
-.acontacts{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color:#2E2F42}
-
-.acontacts:hover{color:#404bbf;}
-
-.acontacts:focus{color: #404bbf;}
-
-.email{text-decoration: none; ; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
+.email{text-decoration: none; ; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: var(--section-color)}
 
 .email:focus{color:#404bbf}
 
