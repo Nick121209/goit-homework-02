@@ -146,35 +146,11 @@ body{font-family: "Roboto", sans-serif; color:#434455;}
 
 .p_tel:hover{color:#404BBF}
 
-.button_all{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color: var(--button-color);background-color: var(--button-background-color);}
+.button{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color: var(--button-color);background-color: var(--button-background-color);}
 
-.button_all:focus{color:#FFFFFF; background-color: #404BBF;}
+.button:focus{color:#FFFFFF; background-color: #404BBF;}
 
-.button_all:hover{color:#FFFFFF; background-color: #404BBF;}
-
-.button_website{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color:var(--button-color);background-color: var(--button-background-color);}
-
-.button_website:focus{color:#FFFFFF; background-color: #404BBF;}
-
-.button_website:hover{color:#FFFFFF; background-color: #404BBF;}
-
-.button_app{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color:var(--button-color);background-color: var(--button-background-color);}
-
-.button_app:focus{color:#FFFFFF; background-color: #404BBF;}
-
-.button_app:hover{color:#FFFFFF; background-color: #404BBF;}
-
-.button_design{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor:pointer;color:var(--button-color);background-color: var(--button-background-color);}
-
-.button_design:focus{color:#FFFFFF; background-color: #404BBF;}
-
-.button_design:hover{color:#FFFFFF; background-color: #404BBF;}
-
-.button_marketing{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer; color:var(--button-color); background-color:var(--button-background-color);}
-
-.button_marketing:focus{color:#FFFFFF; background-color: #404BBF;}
-
-.button_marketing:hover{color:#FFFFFF; background-color: #404BBF;}
+.button:hover{color:#FFFFFF; background-color: #404BBF;}
 
 .banking_app{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:var(--title-color)}
 
