@@ -152,6 +152,12 @@ body{font-family: "Roboto", sans-serif; color:#434455;}
 
 .button:hover{color:#FFFFFF; background-color: #404BBF;}
 
+.icontact{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: var(--section-color)}
+
+.icontact:hover{color:#404bbf}
+
+.icontact:focus{color: #404bbf}
+
 .banking_app{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:var(--title-color)}
 
 .app{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;color:var(--section-color) }
@@ -196,6 +202,11 @@ body{font-family: "Roboto", sans-serif; color:#434455;}
 
 .p-studio{color:#F4F4FD}
 
+.pcontact{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: var(--title0color)}
+
+.pcontact:focus{color:#404BBF}
+
+.pcontact:hover{color:#404BBF}
 
 
 
