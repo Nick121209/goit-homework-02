@@ -126,8 +126,6 @@ body{font-family: "Roboto", sans-serif; color:#434455;}
 
 .apcontacts:hover{color:#404bbf;}
 
-.contacts{font-style: normal}
-
 .list{list-style:none;}
 
 .button{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color: var(--button--color);background-color: var(--button-background-color);}
@@ -191,6 +189,8 @@ body{font-family: "Roboto", sans-serif; color:#434455;}
 .pcontact:focus{color:#404BBF}
 
 .pcontact:hover{color:#404BBF}
+
+.address{font-style:normal}
 
 
 
