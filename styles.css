@@ -20,18 +20,6 @@ body{font-family: "Roboto", sans-serif; color:#434455; background-color: #FFFFFF
 
 .astudio:hover{color: #404bbf}
 
-.email{text-decoration: none; ; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: var(--section-color)}
-
-.email:focus{color:#404bbf}
-
-.email:hover{color:#404bbf}
-
-.tel{text-decoration: none; ; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
-
-.tel:focus{color:#404bbf}
-
-.tel:hover{color:#404bbf}
-
 .footerweb2{text-decoration: none}
 
 .mailandtel{color:#434455; font-family: "Roboto"; font-size: 16px; font-weight: 400; font-style: normal}
@@ -52,19 +40,7 @@ footer{background-color:#2E2F42}
 
 .strategy{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
 
-.punctuality{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-.diligence{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-.technologies{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
 .problem{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.message{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.brands{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.digital{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
 .responsibilities{font-size: 36px; line-height: 1.11; text-align: center; letter-spacing: 0.02em; text-transform: capitalize; color: #2E2F42}
 
@@ -72,25 +48,9 @@ footer{background-color:#2E2F42}
 
 .image{background-color:#FFFFFF}
 
-.image_{background-color:#FFFFFF}
-
-.image-{background-color:#FFFFFF}
-
-.imagen{background-color:#FFFFFF}
-
 .mark{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
 
 .designer{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
-
-.tom{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
-
-.developer{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.camila{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
-
-.market{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.daniel{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
 
 .ui_des{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
@@ -114,18 +74,6 @@ body{font-family: "Roboto", sans-serif; color:#434455;}
 
 .apstudio:hover{color:#404bbf;}
 
-.apportfolio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: #2E2F42}
-
-.apportfolio:focus{color:#404bbf;}
-
-.apportfolio:hover{color:#404bbf;}
-
-.apcontacts{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: #2E2F42}
-
-.apcontacts:focus{color:#404bbf;}
-
-.apcontacts:hover{color:#404bbf;}
-
 .list{list-style:none;}
 
 .button{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color: var(--button--color);background-color: var(--button--background-color);}
@@ -143,38 +91,6 @@ body{font-family: "Roboto", sans-serif; color:#434455;}
 .banking_app{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:var(--title-color)}
 
 .app{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;color:var(--section-color) }
-
-.payment{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;color:var(--title-color)}
-
-.markt{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;color:var(--section-color)  }
-
-.meditation{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;color:var(--title-color)}
-
-._app{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;color:var(--section-color)  }
-
-.taxi{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;color:var(--title-color)}
-
-._markt{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;color:var(--section-color)  }
-
-.screen{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;color:var(--title-color)}
-
-.design{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;color:var(--section-color)  }
-
-.courses{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;color:var(--title-color)}
-
-.-markt{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;color:var(--section-color)  }
-
-.instagram{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;color:var(--title-color)}
-
-._design{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;color:var(--section-color)  }
-
-.food{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;color:var(--title-color)}
-
-.site{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;color:var(--section-color)  }
-
-.coffee{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;color:var(--title-color)}
-
-._site{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;color:var(--section-color)  }
 
 .pfooter{background-color: #2E2F42; }
 
