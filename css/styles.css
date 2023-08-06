@@ -1,52 +1,24 @@
-:root{--primary-color}
+:root{--primary-color:#4d5ae5;
+--button--color:#4d5ae5;
+--button--background-color:#F4F4FD;
+--title-color:#2e2f42;
+--section-color:#434455;}
 
 body{font-family: "Roboto", sans-serif; color:#434455; background-color: #FFFFFF}
 
-.web{.font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color: #4D5AE5}
+.web{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color: #4D5AE5}
 
 .link{text-decoration: none;}
 
-.studio {color:#4D5AE5; font-family: "Raleway", sans-serif; font-size:18px; font-weight: 800;}
+.studio {color:#2E2F42; font-family: "Raleway", sans-serif; font-size:18px; font-weight: 800;}
 
-.link {color:black; font-family: "Raleway", sans-serif; font-size:18px; font-weight: 800; text-decoration: none; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
+.list{list-style: none}
 
-.list{style: none}
-
-.astudio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
+.astudio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color:#2E2F42}
 
 .astudio:focus{color:#404bbf;}
 
 .astudio:hover{color: #404bbf}
-
-.link{text-decoration: none;}
-
-.aportfolio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.aportfolio:focus{color:#404bbf;}
-
-.aportfolio:hover{color: #404bbf;}
-
-.link{text-decoration: none;}
-
-.acontacts{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.acontacts:hover{color:#404bbf;}
-
-.acontacts:focus{color: #404bbf;}
-
-.link{text-decoration: none;}
-
-.email{text-decoration: none; ; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
-
-.email:focus{color:#404bbf}
-
-.email:hover{color:#404bbf}
-
-.tel{text-decoration: none; ; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
-
-.tel:focus{color:#404bbf}
-
-.tel:hover{color:#404bbf}
 
 .footerweb2{text-decoration: none}
 
@@ -60,27 +32,15 @@ body{font-family: "Roboto", sans-serif; color:#434455; background-color: #FFFFFF
 
 footer{background-color:#2E2F42}
  
-.order{background-color: #4D5AE5; color:#FFFFFF; cursor: pointer; font-family: Roboto, sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em;}
+.service{background-color: #4D5AE5; color:#FFFFFF; cursor: pointer; font-family: Roboto, sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em;}
 
-.order:focus{background-color: #404BBF;}
+.service:focus{background-color: #404BBF;}
 
-.order:hover{background-color:#404BBF}
+.service:hover{background-color:#404BBF}
 
 .strategy{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
 
-.punctuality{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-.diligence{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-.technologies{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
 .problem{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.message{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.brands{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.digital{color: #434455;  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
 .responsibilities{font-size: 36px; line-height: 1.11; text-align: center; letter-spacing: 0.02em; text-transform: capitalize; color: #2E2F42}
 
@@ -88,25 +48,9 @@ footer{background-color:#2E2F42}
 
 .image{background-color:#FFFFFF}
 
-.image_{background-color:#FFFFFF}
-
-.image-{background-color:#FFFFFF}
-
-.imagen{background-color:#FFFFFF}
-
 .mark{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
 
 .designer{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em}
-
-.tom{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
-
-.developer{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.camila{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
-
-.market{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
-
-.daniel{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:#2E2F42}
 
 .ui_des{color:#434455; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
@@ -116,8 +60,6 @@ footer{background-color:#2E2F42}
 
 .i_footer_link{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color:#4D5AE5}
 
-.link{text-decoration: none}
-
 .studio_i{color:#F4F4FD}
 
 .i_footer_p{line-height: 1.5; color:#F4F4FD; letter-spacing: 0.02em}
@@ -125,129 +67,46 @@ footer{background-color:#2E2F42}
 body{font-family: "Roboto", sans-serif; color:#434455;}
 
 .pstudio{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; color: #4D5AE5}
-
-.link{text-decoration: none;}
-
-.portstudio{color:#2E2F42}
-
+.portstudio{color:var(--title-color)}
 .apstudio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: #2E2F42}
-
-.link{text-decoration: none;}
 
 .apstudio:focus{color:#404bbf;}
 
 .apstudio:hover{color:#404bbf;}
 
-.apportfolio{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: #2E2F42}
-
-.apportfolio:focus{color:#404bbf;}
-
-.apportfolio:hover{color:#404bbf;}
-
-.link{text-decoration: none;}
-
-.apcontacts{font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: #2E2F42}
-
-.apcontacts:focus{color:#404bbf;}
-
-.apcontacts:hover{color:#404bbf;}
-
-.link{text-decoration: none;}
-
-.contacts{font-style: normal}
-
 .list{list-style:none;}
 
-.p_email{font-style: 16px; line-height: 1.5; letter-spacing: 0.02em}
+.button{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color: var(--button--color);background-color: var(--button--background-color);}
 
-.link{text-decoration: none;}
+.button:focus{color:#FFFFFF; background-color: #404BBF;}
 
-.p_email:focus{color:#404BBF}
+.button:hover{color:#FFFFFF; background-color: #404BBF;}
 
-.p_email:hover{color:#404BBF}
+.icontact{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: var(--section-color)}
 
-.p_tel{font-style: 16px; line-height: 1.5; letter-spacing: 0.02em}
+.icontact:hover{color:#404bbf}
 
-.link{text-decoration: none;}
+.icontact:focus{color: #404bbf}
 
-.p_tel:focus{color:#404BBF}
+.banking_app{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color:var(--title-color)}
 
-.p_tel:hover{color:#404BBF}
-
-.button_all{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;}
-
-.button_all:focus{color:#FFFFFF; background-color: #404BBF;}
-
-.button_all:hover{color:#FFFFFF; background-color: #404BBF;}
-
-.button_website{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;}
-
-.button_website:focus{color:#FFFFFF; background-color: #404BBF;}
-
-.button_website:hover{color:#FFFFFF; background-color: #404BBF;}
-
-.button_app{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;}
-
-.button_app:focus{color:#FFFFFF; background-color: #404BBF;}
-
-.button_app:hover{color:#FFFFFF; background-color: #404BBF;}
-
-.button_design{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor:pointer;}
-
-.button_design:focus{color:#FFFFFF; background-color: #404BBF;}
-
-.button_design:hover{color:#FFFFFF; background-color: #404BBF;}
-
-.button_marketing{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;}
-
-.button_marketing:focus{color:#FFFFFF; background-color: #404BBF;}
-
-.button_marketing:hover{color:#FFFFFF; background-color: #404BBF;}
-
-.banking_app{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-.app{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; }
-
-.payment{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-.markt{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; }
-
-.meditation{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-._app{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; }
-
-.taxi{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-._markt{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; }
-
-.screen{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-.design{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; }
-
-.courses{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-.-markt{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; }
-
-.instagram{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-._design{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; }
-
-.food{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-.site{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; }
-
-.coffee{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
-
-._site{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; }
+.app{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;color:var(--section-color) }
 
 .pfooter{background-color: #2E2F42; }
 
-.logo{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
+.logo{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;color: var(--button--color)}
 
 .link{text-decoration: none;}
 
 .p-studio{color:#F4F4FD}
 
+.pcontact{font-size: 16px; line-height: 1.5; letter-spacing: 0.02em; color: var(--title0color)}
+
+.pcontact:focus{color:#404BBF}
+
+.pcontact:hover{color:#404BBF}
+
+.address{font-style:normal}
 
 
 
