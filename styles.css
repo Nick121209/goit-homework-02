@@ -128,7 +128,7 @@ body{font-family: "Roboto", sans-serif; color:#434455;}
 
 .list{list-style:none;}
 
-.button{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color: var(--button--color);background-color: var(--button-background-color);}
+.button{font-family: "Roboto", sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em; cursor: pointer;color: var(--button--color);background-color: var(--button--background-color);}
 
 .button:focus{color:#FFFFFF; background-color: #404BBF;}
 
@@ -178,7 +178,7 @@ body{font-family: "Roboto", sans-serif; color:#434455;}
 
 .pfooter{background-color: #2E2F42; }
 
-.logo{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; var(--primary-color)}
+.logo{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; var(--button--color)}
 
 .link{text-decoration: none;}
 
