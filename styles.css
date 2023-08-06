@@ -44,11 +44,11 @@ body{font-family: "Roboto", sans-serif; color:#434455; background-color: #FFFFFF
 
 footer{background-color:#2E2F42}
  
-.order{background-color: #4D5AE5; color:#FFFFFF; cursor: pointer; font-family: Roboto, sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em;}
+.service{background-color: #4D5AE5; color:#FFFFFF; cursor: pointer; font-family: Roboto, sans-serif; font-weight: 500; font-size: 16px; line-height: 1.5; letter-spacing: 0.04em;}
 
-.order:focus{background-color: #404BBF;}
+.service:focus{background-color: #404BBF;}
 
-.order:hover{background-color:#404BBF}
+.service:hover{background-color:#404BBF}
 
 .strategy{color:#2E2F42; font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
 
@@ -178,7 +178,7 @@ body{font-family: "Roboto", sans-serif; color:#434455;}
 
 .pfooter{background-color: #2E2F42; }
 
-.logo{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase; var(--button--color)}
+.logo{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;color: var(--button--color)}
 
 .link{text-decoration: none;}
 
