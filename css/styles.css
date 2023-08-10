@@ -38,13 +38,15 @@ body{font-family: "Roboto", sans-serif; color:#434455; background-color: var(--w
 
 .strategy{color:var(--title-color); font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em;}
 
-.problem{color: var(--title-color);  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
+.problem{color: var(--section-color);  font-size: 16px; line-height: 1.5; letter-spacing: 0.02em;}
 
 .responsibilities{font-size: 36px; line-height: 1.11; text-align: center; letter-spacing: 0.02em; text-transform: capitalize; color: var(--title-color)}
 
-.team{font-size: 36px; line-height: 1.11; text-align: center; letter-spacing: 0.02em; text-transform: capitalize; color: var(--title-color)}
+.team{background-color: var(--button-background-color);}
 
-.item{background-color:var(--button-background-color)}
+.team_title{font-size: 36px; line-height: 1.11; text-align: center; letter-spacing: 0.02em; text-transform: capitalize; color: var(--title-color)}
+
+.item{background-color:var(--white-color)}
 
 .mark{font-weight: 500; font-size: 20px; line-height: 1.2; letter-spacing: 0.02em; color: var(--title-color)}
 
@@ -72,7 +74,7 @@ body{font-family: "Roboto", sans-serif; color:#434455; background-color: var(--w
 
 .pfooter{background-color: var(--title-color); }
 
-.logo{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;color: var(--button-color)}
+.logo{font-family: "Raleway", sans-serif; font-weight: 800; font-size: 18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;color: var(--primary-color)}
 
 .address{font-style:normal}
 
